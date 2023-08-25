@@ -1,5 +1,5 @@
 ## Olá, sou o Crowler
-``import git from "github";
+```import git from "github";
 
 async function githubProfile() {
   const profile = git.Profile({
@@ -17,7 +17,7 @@ async function githubProfile() {
   }
 }
 
-githubProfile();``
+githubProfile();```
 
  <div>
   <a href="https://github.com/SrCrow02">
