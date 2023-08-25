@@ -1,5 +1,6 @@
 ## Olá, sou o Crowler
-```import git from "github";
+```js
+import git from "github";
 
 async function githubProfile() {
   const profile = git.Profile({
