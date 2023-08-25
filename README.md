@@ -1,4 +1,24 @@
 ## Olá, sou o Crowler
+import git from "github";
+
+async function githubProfile() {
+  const profile = git.Profile({
+    programmingLanguages: ["C", "JS", "TS"],
+    editors: ["vscode"],
+    os: "ZorinOS"
+  });
+
+  try {
+    profile.talkWithMe({
+      discord: "crow_ler"
+    });
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+githubProfile();
+
  <div>
   <a href="https://github.com/SrCrow02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SrCrow02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
