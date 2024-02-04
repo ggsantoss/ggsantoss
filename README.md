@@ -3,7 +3,7 @@ import git from "github";
 
 async function githubProfile() {
   const profile = git.Profile({
-    programmingLanguages: ["C", "JS", "TS"],
+    programmingLanguages: ["PY", "JS", "TS"],
     editors: ["vscode"],
     os: "ZorinOS"
   });
