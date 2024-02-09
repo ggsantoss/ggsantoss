@@ -43,4 +43,4 @@ githubProfile();
 
 - Ambiente | Enviroment:
 
-![ZorinOS](https://img.shields.io/badge/zorin-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%blue) ![Archlinux](https://img.shields.io/badge/archlinux-%23323330.svg?style=for-the-badge&logo=archlinux&logoColor=%blue)  ![ZorinOS](https://img.shields.io/badge/zorin-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
